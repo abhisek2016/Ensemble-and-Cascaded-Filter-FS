@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 
-abcd=pd.read_csv("C:/Users/Arunava/Desktop/Feature Selection/New Datasets/Leukaemia.csv")
+abcd=pd.read_csv("C:/Users/Desktop/New Datasets/Leukaemia.csv")
 
 
 print("Shape")
